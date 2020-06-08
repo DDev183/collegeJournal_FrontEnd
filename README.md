@@ -1,8 +1,3 @@
-Demo https://youtu.be/TSClYhYxJvk
-
-
-
-
 
 ## Available Scripts
 
